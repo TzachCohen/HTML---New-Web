@@ -190,10 +190,10 @@ nav.navbar.bootsnav .navbar-toggle i{color: #d92cf9;}
     align-items: center;
     justify-content: center;
     position:relative;
-    background:url(../images/about/tzach.jpg)no-repeat;
+    background:url(../images/about/333.jpg)no-repeat;
     background-size:cover;
     background-position: center;
-    height:890px;
+    height:1100px;
 }
 .welcome-hero:before{
     position:absolute;
@@ -208,7 +208,7 @@ nav.navbar.bootsnav .navbar-toggle i{color: #d92cf9;}
 /*.header-text-area*/
 .header-text h2 {
     color: #fff;
-    font-size: 54px;
+    font-size: 50px;
     font-weight: 700;
     
     line-height: 1.5;
