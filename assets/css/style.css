@@ -244,14 +244,17 @@ nav.navbar.bootsnav .navbar-toggle i{color: #d92cf9;}
 /*-------------------------------------
         4.  About
 --------------------------------------*/
-.about {padding: 50px 0 100px;}
-.about-content {padding-top: 100px;}
+.about {padding: 70px 0 100px;}
+.about-content {padding-top: 30px;}
+
+
 /*.single-about-txt*/
 .single-about-txt h3 {
     font-size:18px;
     color: #3c4258;
     text-transform: initial;
     line-height: 1.8;
+	
 }
 .single-about-txt p {
     font-size: 16px;
@@ -331,10 +334,15 @@ nav.navbar.bootsnav .navbar-toggle i{color: #d92cf9;}
 
 .education {
     background:  #f9fbfd;
-    padding-top:  50px;
+    padding-top: 5px;
+	border-top: 1px solid #e5ebf2;
+border-bottom: 1px solid #e5ebf2;
+	
 }
 .education-horizontal-timeline {
-    padding: 80px 0;
+    padding: 20px 0;
+	
+	
 }
 
 /*.education-horizontal-timeline*/
@@ -375,12 +383,14 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
 }
 .skill-content{padding: 50px 0 80px;}
 .single-skill-content{padding-top: 100px;}
+
 .section-heading h2 {
     font-size: 24px;
     font-weight: 600;
     text-transform: uppercase;
     padding-bottom: 50px;
     border-bottom: 1px solid #e5ebf2;
+	
 }
 .single-progress-txt {
     display: flex;
